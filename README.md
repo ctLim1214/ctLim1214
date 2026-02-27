@@ -9,6 +9,11 @@ I am a passionate IT student at Xavier University Ateneo De Cagayan, driven by a
 - 💬 Ask me about ...
 - 📫 How to reach me: <20220024414@my.xu.edu.ph>
 
+## Fun Fact
+- My favorite anime is Kaguya-Sama: Love is War
+- My favorite programming language is C#
+- I originally started HTML back in 2019. But only returned to it now!
+
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=cs,java,ts,js,html,python,godot,css,git,github)](https://skillicons.dev)
 
