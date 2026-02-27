@@ -10,7 +10,7 @@ I am a passionate IT student at Xavier University Ateneo De Cagayan, driven by a
 - 📫 How to reach me: <20220024414@my.xu.edu.ph>
 
 ## 💻 Tech Stack
-[![My Skills][(https://skillicons.dev/icons?i=cs,java,ts,js,html,python,godot,css,git,github)](https://skillicons.dev)]
+[![My Skills](https://skillicons.dev/icons?i=cs,java,ts,js,html,python,godot,css,git,github)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 - 🚀 Learning Full Stack Web Development
